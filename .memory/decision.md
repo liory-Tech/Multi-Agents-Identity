@@ -1,4 +1,4 @@
-# decision.md  
+# decision.md
 ### Decision Logging & MCP Tool‑Selection Records
 
 ---

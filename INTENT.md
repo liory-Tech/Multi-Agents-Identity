@@ -1,4 +1,4 @@
-# INTENT.md  
+# INTENT.md
 ### Strategy, Reasoning, BDD & MCP Evaluation
 
 ## Strategic Goals

@@ -1,4 +1,4 @@
-# USER.md  
+# USER.md
 ### Owner Identity & Relationship Contract
 
 ## Administrator Identity

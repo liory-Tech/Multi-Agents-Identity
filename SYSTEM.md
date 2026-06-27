@@ -1,4 +1,4 @@
-# SYSTEM.md  
+# SYSTEM.md
 ### Operational Guarantees, Risk, and Constraints for AI Agents
 
 ## Purpose

@@ -1,4 +1,4 @@
-# CLAUDE.md  
+# CLAUDE.md
 ### Repo Navigation, Coding Rules & MCP File Integration
 
 ## Repo Navigation Rules

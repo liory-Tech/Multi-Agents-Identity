@@ -1,4 +1,4 @@
-# AGENTS.md  
+# AGENTS.md
 ### Operational Procedures, Tooling, MCP Integration & Interaction Logic
 
 ---

@@ -1,4 +1,4 @@
-# design.md  
+# design.md
 ### Visual System & UI/UX Rules
 
 ## Color System

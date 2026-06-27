@@ -1,4 +1,4 @@
-# MCP.md  
+# MCP.md
 ### Model Context Protocol — Tooling, Safety, and Integration Specification
 
 ## Purpose

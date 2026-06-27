@@ -1,4 +1,4 @@
-# correction.md  
+# correction.md
 ### Error Tracking, Behavioral Fixes & MCP Error Records
 
 ---

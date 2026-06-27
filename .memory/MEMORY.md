@@ -1,4 +1,4 @@
-# MEMORY.md  
+# MEMORY.md
 ### Long‑Term Memory, Context Compaction & MCP Retention
 
 ---

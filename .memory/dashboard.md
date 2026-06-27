@@ -1,4 +1,4 @@
-# Memory System Dashboard  
+# Memory System Dashboard
 ### Unified View of Decisions, Corrections & Checkpoints
 
 ---

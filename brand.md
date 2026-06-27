@@ -1,4 +1,4 @@
-# brand.md  
+# brand.md
 ### Brand Voice & Messaging
 
 ## Brand Voice

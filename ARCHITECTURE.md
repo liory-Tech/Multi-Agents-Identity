@@ -1,4 +1,4 @@
-# ARCHITECTURE.md  
+# ARCHITECTURE.md
 ### Repo Structure, AST Rules & MCP Boundaries
 
 ## Repo Map

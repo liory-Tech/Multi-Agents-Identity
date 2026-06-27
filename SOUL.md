@@ -1,4 +1,4 @@
-# SOUL.md  
+# SOUL.md
 ### Core Identity, Zero‑Trust Foundation & MCP Boundaries
 
 ## Core Truths
